@@ -1,1 +1,0 @@
-console.log("My First Own Docker Image!");
